@@ -1,0 +1,7 @@
+/* Custom global styles */
+body {
+  font-family: 'Inter', 'Noto Sans Devanagari', sans-serif;
+  background-color: #dadbd3;
+  margin: 0;
+  overflow: hidden;
+}
